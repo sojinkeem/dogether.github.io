@@ -89,7 +89,7 @@ body {
   background: #005bfc !important;
 }
 
-/* ¸ğ¹ÙÀÏ */
+/* Â¸Ã°Â¹Ã™Ã€Ã */
 
 #header-top-notice {
   display: none;
@@ -155,11 +155,11 @@ span.a-badge i.fa.fa-star {
 }
 
 #board-info #viewers-area #viewers:before {
-    content: "ÀÚÀ¯·Î¿î µµºñ ";
+    content: "Ã€ÃšÃ€Â¯Â·ÃÂ¿Ã® ÂµÂµÂºÃ± ";
     cursor: text
 }
 
 #board-info #viewers-area #viewers:after {
-    content: "¸í";
+    content: "Â¸Ã­";
     cursor: text
 }
